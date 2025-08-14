@@ -11,4 +11,4 @@ class DataHandler:
 
     def clear(self):
         self.X = np.empty((0, 2))
-        self.y = np.array([])
+        self.y = np.array([]) //
